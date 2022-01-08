@@ -1,6 +1,7 @@
-# <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> A propos de moi !
+# <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> À propos de moi !
 
-My name is Patrick Etcheverry, I'm a computer science teacher from France and currently working at the [University Institute of Technology of Bayonne](https://www.iutbayonne.univ-pau.fr/).
+Étudiant en DUT Informatique à l'IUT de Bayonne et des pays de l'Adour, je suis mon petit bonhomme de chemin en espérant un jour pentester ! 💻
+En attendant, vous pouvez retrouver mes créations via mes différents repository. 📬
 
 ## 🎭🧑‍💻 Les outils que je maitrise 
 <p>
