@@ -4,7 +4,7 @@
 
 En attendant, vous pouvez retrouver mes créations via mes différents repository. 📬
 
-## 🧰 Les outils que je maitrise 
+## 🧰 Les outils que je maîtrise 
 <p>
 
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-27ae60?style=flat-square&logo=php&logoColor=white" />
