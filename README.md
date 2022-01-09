@@ -1,6 +1,6 @@
 # <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> À propos de moi !
 
-Étudiant en DUT Informatique à l'IUT de Bayonne, je fais mon petit bonhomme de chemin, espérant un jour pentester ! 💻
+Étudiant en DUT Informatique à l'IUT de Bayonne, je fais mon petit bonhomme de chemin, espérant être un jour pentester ! 💻
 
 En attendant, vous pouvez retrouver mes créations via mes différents repository. 📬
 
