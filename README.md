@@ -1,10 +1,10 @@
-# <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> À propos de moi !
+# <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> About me !
 
-Alternant en R&I à l'ENSEIRB-MATMECA & chez Orange, je fais mon petit bonhomme de chemin, espérant être un jour pentester ! 💻
+Sandwich course engineer student at the ENSEIRB-MATMECA, I am currently following a Computer Science & Network course in parallel to which I work for the telecom company Orange, as an IT project manager and fullstack developer. 💻
 
-En attendant, vous pouvez retrouver mes créations via mes différents repository. 📬
+You can find my personal projects and some of my professional projects. Enjoy your visit! 📬
 
-## 🧰 Les outils que je maîtrise 
+## 🧰 Tools I master 
 <p>
 
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-27ae60?style=flat-square&logo=php&logoColor=white" />
