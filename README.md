@@ -1,4 +1,3 @@
-<br />
 ## <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> About me !
 
 Sandwich course engineer student at the ENSEIRB-MATMECA, I am currently following a Computer Science & Network course in parallel to which I work for the telecom company Orange, as an IT project manager and fullstack developer. 💻
