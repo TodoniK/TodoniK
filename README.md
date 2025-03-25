@@ -1,8 +1,8 @@
 ## <img src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" width="30px"> About me !
 
-Sandwich course engineer student at the ENSEIRB-MATMECA, I am currently following a Computer Science & Network course in parallel to which I work for the telecom company Orange, as an IT project manager and fullstack developer. 💻
+Work study engineer student at @EnseirbTelecom (ENSEIRB-MATMECA), I am currently finishing a Computer Science & Network Master of Science in parallel to which I work for the largest french telecom company @Orange-OpenSource (Orange), as an IT project manager and fullstack developer. 💻
 
-You can find my personal projects and some of my professional projects. Enjoy your visit! 📬
+You can find my personal projects down below. Enjoy your visit! 📬
 
 ## 🧰 Tools I master 
 <p>
