@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://julesroyet.dev/en">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,100:FF7900&text=Jules%20Royet&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Architect%20%C2%B7%20AI%20Systems%20Engineer&descSize=18&descAlignY=58" alt="Jules Royet, Cloud & DevOps Architect and AI Systems Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,100:FF7900&text=Jules%20Royet&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Cloud%20%26amp%3B%20DevOps%20Architect%20%C2%B7%20AI%20Systems%20Engineer&descSize=18&descAlignY=58" alt="Jules Royet, Cloud & DevOps Architect and AI Systems Engineer" width="100%" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF7900&center=true&vCenter=true&width=620&lines=I+build+cloud+platforms.;I+ship+autonomous+AI+agents.;I+automate+CI%2FCD+pipelines.;I+build+systems+that+hold+in+production." alt="I build cloud platforms, autonomous AI agents, CI/CD pipelines and systems that hold in production." />
